@@ -1,0 +1,13 @@
+autokeras==2.0
+click
+dataclasses
+jsonschema
+keras==3.4.0
+keras_tuner==1.4.7
+mlflow
+numpy
+pandas
+pyfiglet
+pytest
+pytest-cov
+tensorflow[and-cuda]==2.17.0
