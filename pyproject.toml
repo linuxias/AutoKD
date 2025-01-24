@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "autokd"
+version = "0.1.0"
+description = ""
+authors = ["linuxias <linuxias@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+autokeras = "^2.0.0"
+keras-tuner = "^1.4.7"
+tensorflow = "^2.18.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
